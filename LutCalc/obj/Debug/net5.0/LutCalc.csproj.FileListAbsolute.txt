@@ -1,0 +1,16 @@
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc.deps.json
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc.runtimeconfig.json
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc.runtimeconfig.dev.json
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc.dll
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/ref/LutCalc.dll
+/home/paulm/RiderProjects/ImgCompression/LutCalc/bin/Debug/net5.0/LutCalc.pdb
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.csproj.AssemblyReference.cache
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.AssemblyInfoInputs.cache
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.AssemblyInfo.cs
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.csproj.CoreCompileInputs.cache
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.dll
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/ref/LutCalc.dll
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.pdb
+/home/paulm/RiderProjects/ImgCompression/LutCalc/obj/Debug/net5.0/LutCalc.genruntimeconfig.cache

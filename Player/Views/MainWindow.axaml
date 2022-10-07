@@ -1,0 +1,36 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Player.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="400"
+        x:Class="Player.Views.MainWindow" Width="640" Height="400"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Player">
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        
+        <Grid>
+            <Image Source="{Binding Original}" Grid.Row="0" Stretch="UniformToFill"></Image>
+            <Image Source="{Binding Compressed}" Grid.Row="0" Stretch="UniformToFill" IsVisible="{Binding IsCompressedShown}"></Image>
+        </Grid>
+        
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <ToggleButton Content="Play" Command="{Binding PlayPauseCommand}" IsChecked="{Binding IsPlaying}"></ToggleButton>
+            <ToggleButton Content="Compressed" IsChecked="{Binding IsCompressedShown}"></ToggleButton>
+            <Button Content="&lt;" Command="{Binding PrevCommand}"/>
+            <Button Content=">" Command="{Binding NextCommand}"></Button>
+        </StackPanel>
+        
+        
+        
+    </Grid>
+</Window>

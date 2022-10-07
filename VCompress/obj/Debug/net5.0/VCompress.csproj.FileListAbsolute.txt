@@ -1,0 +1,16 @@
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress.deps.json
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress.runtimeconfig.json
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress.runtimeconfig.dev.json
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress.dll
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/ref/VCompress.dll
+/home/paulm/RiderProjects/ImgCompression/VCompress/bin/Debug/net5.0/VCompress.pdb
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.csproj.AssemblyReference.cache
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.AssemblyInfoInputs.cache
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.AssemblyInfo.cs
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.csproj.CoreCompileInputs.cache
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.dll
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/ref/VCompress.dll
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.pdb
+/home/paulm/RiderProjects/ImgCompression/VCompress/obj/Debug/net5.0/VCompress.genruntimeconfig.cache

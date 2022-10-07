@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgCompression", "ImgCompression\ImgCompression.csproj", "{0D201C00-4EAC-4410-9350-7315BC515F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpegToRaw", "JpegToRaw\JpegToRaw.csproj", "{A1CA16AB-595A-4155-A748-800656374FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameGetter", "FrameGetter\FrameGetter.csproj", "{3CDD5EFB-234E-4AE7-86A4-4A634F4FDC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceCompression", "DifferenceCompression\DifferenceCompression.csproj", "{F71860B9-FB94-485B-836F-87B85365474C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{625A37AA-7E58-4BCE-BDBD-DA7F78979FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCompress", "VCompress\VCompress.csproj", "{97B98FD8-7F34-4077-AFC0-7079BC1FD49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LutCalc", "LutCalc\LutCalc.csproj", "{E82AC88B-C566-46B4-B769-AE4FC6FB04D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D201C00-4EAC-4410-9350-7315BC515F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D201C00-4EAC-4410-9350-7315BC515F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D201C00-4EAC-4410-9350-7315BC515F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D201C00-4EAC-4410-9350-7315BC515F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CA16AB-595A-4155-A748-800656374FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CA16AB-595A-4155-A748-800656374FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CA16AB-595A-4155-A748-800656374FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CA16AB-595A-4155-A748-800656374FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDD5EFB-234E-4AE7-86A4-4A634F4FDC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDD5EFB-234E-4AE7-86A4-4A634F4FDC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDD5EFB-234E-4AE7-86A4-4A634F4FDC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDD5EFB-234E-4AE7-86A4-4A634F4FDC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71860B9-FB94-485B-836F-87B85365474C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71860B9-FB94-485B-836F-87B85365474C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71860B9-FB94-485B-836F-87B85365474C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71860B9-FB94-485B-836F-87B85365474C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625A37AA-7E58-4BCE-BDBD-DA7F78979FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625A37AA-7E58-4BCE-BDBD-DA7F78979FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625A37AA-7E58-4BCE-BDBD-DA7F78979FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625A37AA-7E58-4BCE-BDBD-DA7F78979FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B98FD8-7F34-4077-AFC0-7079BC1FD49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B98FD8-7F34-4077-AFC0-7079BC1FD49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B98FD8-7F34-4077-AFC0-7079BC1FD49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B98FD8-7F34-4077-AFC0-7079BC1FD49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82AC88B-C566-46B4-B769-AE4FC6FB04D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82AC88B-C566-46B4-B769-AE4FC6FB04D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82AC88B-C566-46B4-B769-AE4FC6FB04D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82AC88B-C566-46B4-B769-AE4FC6FB04D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

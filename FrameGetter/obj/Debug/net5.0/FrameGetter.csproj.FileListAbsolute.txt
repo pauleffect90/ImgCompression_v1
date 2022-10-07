@@ -1,0 +1,16 @@
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter.deps.json
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter.runtimeconfig.json
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter.runtimeconfig.dev.json
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter.dll
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/ref/FrameGetter.dll
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/bin/Debug/net5.0/FrameGetter.pdb
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.csproj.AssemblyReference.cache
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.AssemblyInfoInputs.cache
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.AssemblyInfo.cs
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.csproj.CoreCompileInputs.cache
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.dll
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/ref/FrameGetter.dll
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.pdb
+/home/paulm/RiderProjects/ImgCompression/FrameGetter/obj/Debug/net5.0/FrameGetter.genruntimeconfig.cache
